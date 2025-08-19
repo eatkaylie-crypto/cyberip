@@ -26,11 +26,16 @@ pip install -r requirements.txt
 pip install colorama
 
 Instalasi
-pkg update && pkg upgrade -y
-pkg install git -y
-pkg install python -y 
-git clone https://github.com/markasibervteam/cyberip.git 
-cd cyberip
+
+• pkg update && pkg upgrade -y
+
+• pkg install git -y
+
+• pkg install python -y 
+
+• git clone https://github.com/markasibervteam/cyberip.git 
+
+• cd cyberip
 
 Menjalankan Tool
 python cyberip.py
