@@ -16,11 +16,12 @@ Hasil lookup akan ditampilkan dengan tampilan berwarna di terminal.
 
 # Instalasi
 1. Clone repository atau download file `cyberip.py`
-   ```bash
-   git clone https://github.com/username/cyberip.git
-   cd cyberip
 
-   2. Install dependensi dengan:
+git clone https://github.com/username/cyberip.git
+
+  cd cyberip
+
+2.Install dependensi dengan:
 
 pip install -r requirements.txt
 
@@ -39,3 +40,4 @@ Contoh:
 
 Masukkan alamat website/IP: google.com
 
+Disclaimer: Tool ini dibuat hanya untuk tujuan edukasi & riset. Jangan digunakan untuk aktivitas ilegal.
