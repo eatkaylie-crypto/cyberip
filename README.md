@@ -15,28 +15,16 @@ Hasil lookup akan ditampilkan dengan tampilan berwarna di terminal.
   - `colorama`
 
 # Instalasi
-
-#1 update & upgrade package
+```bash
 pkg update && pkg upgrade -y
-
-#2 install git
 pkg install git -y
-
-#3 install python
-pkg install python -y
-
-#4 clone repository cyberip 
-git clone https://github.com/markasibervteam/cyberip.git
-
-#5 masukan ke folder project 
+pkg install python -y 
+ git clone https://github.com/markasibervteam/cyberip.git 
 cd cyberip
-
-#6 install dependensi (colorama)
 pip install -r requirements.txt
-#atau langsung 
 pip install colorama
 
-#7 jalankan tool 
+#jalankan tool 
 python cyberip.py
 
 Kemudian masukkan URL atau alamat IP target ketika diminta.
