@@ -34,11 +34,22 @@ pkg install git -y
 pkg install python -y 
 git clone https://github.com/markasibervteam/cyberip.git 
 cd cyberip
-# jalankan tool 
+
+Menjalankan Tool
+
 python cyberip.py
 
 Kemudian masukkan URL atau alamat IP target ketika diminta.
+
 Contoh:
 
 Masukkan alamat website/IP: google.com
 
+
+
+#⚠️ Disclaimer
+
+CyberIP dibuat hanya untuk tujuan **edukasi dan riset keamanan siber**.  
+Segala bentuk penyalahgunaan tools ini sepenuhnya menjadi **tanggung jawab pengguna**.  
+kami tidak bertanggung jawab atas kerugian, kerusakan, atau tindakan ilegal yang ditimbulkan dari penggunaan CyberIP.  
+Gunakan dengan bijak dan sesuai hukum yang berlaku.
