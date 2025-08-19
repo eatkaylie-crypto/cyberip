@@ -1,6 +1,6 @@
 # Screenshot
 <p align="center">
-  <img src="https://i.postimg.cc/CR3x7MG9/cyberip.png" alt="CyberIP Screenshot" width="600"/>
+  <img src="https://i.postimg.cc/CR3x7MG9/cyberip.png" alt="CyberIP Screenshot" width="700"/>
 </p>
 
 # CyberIP
