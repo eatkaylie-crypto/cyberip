@@ -17,7 +17,7 @@ Hasil lookup akan ditampilkan dengan tampilan berwarna di terminal.
 # Instalasi
 1. Clone repository atau download file `cyberip.py`
 
-git clone https://github.com/username/cyberip.git
+git clone https://github.com/markasibervteam/cyberip.git
 
   cd cyberip
 
