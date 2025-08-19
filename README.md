@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/cyberip.png" alt="CyberIP Screenshot" width="800"/>
-</p>
+
 
 # CyberIP
 CyberIP adalah script Python sederhana untuk melakukan pengecekan alamat IP dari sebuah domain/URL.  
