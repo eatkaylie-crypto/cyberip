@@ -48,7 +48,7 @@ Contoh:
 Masukkan alamat website/IP: google.com
 
 
-#⚠️ Disclaimer
+⚠️ Disclaimer
 
 CyberIP dibuat hanya untuk tujuan **edukasi dan riset keamanan siber**.  
 Segala bentuk penyalahgunaan tools ini sepenuhnya menjadi **tanggung jawab pengguna**.  
