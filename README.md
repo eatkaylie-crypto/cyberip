@@ -66,11 +66,6 @@ Gunakan dengan bijak dan sesuai hukum yang berlaku.
   <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
-# GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markasibervteam&show_icons=true&theme=transparent" />
-</p>
-
 # Contact
 - Owner : [@viasec0129](https://t.me/viasec0129)  
 - Grup : [Markas Siber V](https://t.me/markassiberv)  
