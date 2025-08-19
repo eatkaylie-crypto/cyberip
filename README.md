@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cyberip.png" alt="CyberIP Screenshot" width="800"/>
+  <img src="assets/cyberip.png" alt="cyberip Screenshot" width="800"/>
 </p>
 
 # CyberIP
