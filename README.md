@@ -4,7 +4,7 @@
 </p>
 
 # CyberIP
-CyberIP adalah script Python sederhana untuk melakukan pengecekan alamat IP dari sebuah domain/URL.  
+CyberIP adalah tools sederhana untuk melakukan pengecekan alamat IP dari sebuah domain/URL.  
 
 ---
 
