@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/Z6r4bqg4/cyberip.png" alt="CyberIP Screenshot" width="800"/>
+  <img src="https://d.top4top.io/p_xxxxxx.png" alt="CyberIP Screenshot" width="800"/>
 </p>
 
 # CyberIP
