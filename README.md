@@ -1,6 +1,6 @@
-#📸 Screenshot
+# Screenshot
 <p align="center">
-  <img src="https://postimg.cc/CR3x7MG9/cyberip.png" alt="CyberIP Screenshot" width="600"/>
+  <img src="https://i.postimg.cc/CR3x7MG9/cyberip.png" alt="CyberIP Screenshot" width="600"/>
 </p>
 
 # CyberIP
@@ -8,16 +8,20 @@
 CyberIP adalah script Python sederhana untuk melakukan pengecekan alamat IP dari sebuah domain/URL.  
 Hasil lookup akan ditampilkan dengan tampilan berwarna di terminal.
 
-# Fitur
+---
+
+## Fitur
 - Resolusi domain ke alamat IP
 - Menampilkan informasi detail IP target
 - Output berwarna (dengan Colorama)
 - Ringan & mudah digunakan
 
-# Persyaratan
+---
+
+## Persyaratan
 - Python 3.8 atau lebih baru
 - Modul Python yang diperlukan:
-  - `colorama`
+  - colorama
 
 Pastikan sudah menginstal paket colorama:
 ```bash
