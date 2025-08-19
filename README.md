@@ -19,7 +19,6 @@ pip install colorama
 
 
 # Instalasi
-```bash
 pkg update && pkg upgrade -y
 pkg install git -y
 pkg install python -y 
@@ -29,10 +28,9 @@ cd cyberip
 python cyberip.py
 
 
-
 # Kemudian masukkan URL atau alamat IP target ketika diminta.
 Contoh:
 
 Masukkan alamat website/IP: google.com
 
-Disclaimer: Tool ini dibuat hanya untuk tujuan edukasi & riset. Jangan digunakan untuk aktivitas ilegal.
+⚠️Disclaimer: Tool ini dibuat hanya untuk tujuan edukasi & riset. Jangan digunakan untuk aktivitas ilegal.
