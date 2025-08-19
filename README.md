@@ -27,7 +27,9 @@ pip install colorama
 #jalankan tool 
 python cyberip.py
 
-Kemudian masukkan URL atau alamat IP target ketika diminta.
+
+
+#Kemudian masukkan URL atau alamat IP target ketika diminta.
 Contoh:
 
 Masukkan alamat website/IP: google.com
