@@ -49,11 +49,7 @@ Masukkan alamat website/IP: google.com
 
 
 ⚠️ Disclaimer
-
-CyberIP dibuat hanya untuk tujuan **edukasi dan riset keamanan siber**.  
-Segala bentuk penyalahgunaan tools ini sepenuhnya menjadi **tanggung jawab pengguna**.  
-kami tidak bertanggung jawab atas kerugian, kerusakan, atau tindakan ilegal yang ditimbulkan dari penggunaan CyberIP.  
-Gunakan dengan bijak dan sesuai hukum yang berlaku.
+harap gunakan tools dengan bijak , kami tidak akan bertanggung jawab jika di salah gunakan. 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
