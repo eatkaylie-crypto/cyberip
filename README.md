@@ -1,6 +1,6 @@
-# Screenshot
+# 📸 Screenshot
 <p align="center">
-  <img src="https://i.postimg.cc/CR3x7MG9/cyberip.png" alt="CyberIP Screenshot" width="700"/>
+  <img src="https://i.postimg.cc/68TLDbyj/1000369914.jpg" alt="CyberIP Screenshot" width="600"/>
 </p>
 
 # CyberIP
