@@ -13,6 +13,10 @@ Hasil lookup akan ditampilkan dengan tampilan berwarna di terminal.
 - Python 3.8 atau lebih baru
 - Modul Python yang diperlukan:
   - `colorama`
+pastikan sudah menginstal paket colorama
+pip install -r requirements.txt
+pip install colorama
+
 
 # Instalasi
 ```bash
@@ -21,10 +25,7 @@ pkg install git -y
 pkg install python -y 
  git clone https://github.com/markasibervteam/cyberip.git 
 cd cyberip
-pip install -r requirements.txt
-pip install colorama
-
-#jalankan tool 
+# jalankan tool 
 python cyberip.py
 
 
